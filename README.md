@@ -7,8 +7,11 @@ When I started this project I wanted to build a snake game that ran straight off
 I realize that LinkedLists are not the best structures for these sorts of things, but this is just what made the most sense to me.
 I will also work on fixing any bugs eventually.
 
+# Required Components
+Need to have ncurses library installed and g++ version 5.4 or higher.
+
 # To Run
-This project was built to run straight off linux terminal. Required components include g++ version 5.4 or higher, and ncurses library. Use the make file to run, and ./main to start.
+This project was built to run straight off linux terminal. Use the make file to run, and ./main to start.
 
 #
 
